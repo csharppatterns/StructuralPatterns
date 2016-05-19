@@ -15,3 +15,5 @@ There are several kinds of proxies:
 ## Bridge Pattern
 Bridge pattern separates an abstraction from its implementation. It is useful when a new version of software should replace an existing version, but the older version must still run for its existing client base.
 
+## Composite Pattern
+Composite pattern arranges structured hierarchies so that single components and groups of components can be treated in the same way. Pattern has to deal with two types: Components and Composites of those components. Both types should implement common operations of the same interface.
