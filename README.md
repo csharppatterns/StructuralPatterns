@@ -17,3 +17,10 @@ Bridge pattern separates an abstraction from its implementation. It is useful wh
 
 ## Composite Pattern
 Composite pattern arranges structured hierarchies so that single components and groups of components can be treated in the same way. Pattern has to deal with two types: Components and Composites of those components. Both types should implement common operations of the same interface.
+
+## Flyweight Pattern
+Flyweight pattern promotes an efficient way to share common information present in small objects that occur in a system in large numbers.
+
+## Adapter Pattern
+Adapter Pattern is useful wherever there is code to be wrapped up and redirected to a different implementation. Adapter can put in varying amounts of work to adapt base implementation to new interface. The simplest adaption is just to reroute a method call to one of a different name.
+
