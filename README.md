@@ -1,5 +1,5 @@
-# StructuralPatterns
-Structural patterns are concernedaccross with how classes and objects are composed to form larger structures.
+# Structural Patterns
+Structural patterns are concerned with how classes and objects are composed to form larger structures.
 
 ## Decorator Pattern
 Decorator pattern attaches additional behavior without inheritance.
@@ -22,5 +22,9 @@ Composite pattern arranges structured hierarchies so that single components and 
 Flyweight pattern promotes an efficient way to share common information present in small objects that occur in a system in large numbers.
 
 ## Adapter Pattern
-Adapter Pattern is useful wherever there is code to be wrapped up and redirected to a different implementation. Adapter can put in varying amounts of work to adapt base implementation to new interface. The simplest adaption is just to reroute a method call to one of a different name.
+Adapter pattern is useful wherever there is code to be wrapped up and redirected to a different implementation. Adapter can put in varying amounts of work to adapt base implementation to new interface. The simplest adaption is just to reroute a method call to one of a different name.
+
+## Facade Pattern
+Facade pattern provides high-level access to subsystems whose details are hidden from users.
+
 
